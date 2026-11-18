@@ -152,7 +152,7 @@ The other seats are played by bots: eight dwarves, A to H, one for every way to 
 
 ## Worlds
 
-Every world is generated from a seed, and nothing about it is stored. A seed picks the format (a duel, four players or eight, on a 16×16×4, 24×24×6 or 32×32×8 grid), one of eleven map archetypes (a vault, canyons, plains, a labyrinth, a grove, pillars, a ziggurat, a city, a quarry, bridges, pyramids), how generous the dice are, the time of day and the sky.
+Every world is generated from a seed, and nothing about it is stored. A seed picks the format (a duel, four players or eight, on a 16×16×4, 24×24×6 or 32×32×8 grid), one of fifteen map archetypes (a vault, canyons, plains, a labyrinth, a grove, pillars, a ziggurat, a city, a quarry, bridges, pyramids, a colosseum, a castle, ruins, islands), how generous the dice are, the time of day and the sky.
 
 <table>
   <tr>
@@ -186,6 +186,38 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
   <tr>
     <td>The bridges at dusk, the sun going down behind the towers.</td>
     <td>The canyons: a craft bench, modifier blocks and a shrine in play.</td>
+  </tr>
+  <tr>
+    <td><img src="media/staged/no-hud/colosseum-day-drum.png" alt="The colosseum from outside by day: a tall round wall of mossy stone with a hoop of yellow ore and a rim of red, three dwarves and a shrine of ghost dice on the grass in front of it"></td>
+    <td><img src="media/staged/no-hud/colosseum-dusk-seats.png" alt="Inside the colosseum at dusk: rows of stone seats stepping up to a red rim, ladders up them, dwarves on the rows and a stack of ghost dice down in the pit"></td>
+  </tr>
+  <tr>
+    <td>The colosseum: a round bowl of seats, a gate through it on each side.</td>
+    <td>Inside it at dusk, looking across the pit from the seats.</td>
+  </tr>
+  <tr>
+    <td><img src="media/staged/no-hud/castle-dawn-keep.png" alt="Dawn in the castle: a tall keep with a red roof and bands of yellow and green windows, a ladder up its face, seen from the wall walk across the ward under a rose sky"></td>
+    <td><img src="media/staged/no-hud/castle-day-ward.png" alt="The castle by day from inside its walls: dwarves up on the wall walk either side, turrets capped in blue ore and whitestone, red and yellow lintels over the gates and ladders in the corners of the ward"></td>
+  </tr>
+  <tr>
+    <td>The castle at dawn: its keep, from the wall walk.</td>
+    <td>A smaller castle by day: turrets, gates, and dwarves on the walls.</td>
+  </tr>
+  <tr>
+    <td><img src="media/staged/no-hud/ruins-dusk-halls.png" alt="Dusk in the ruins: three dwarves on the grass among broken mossy walls with bands of red and blue ore in them, ghost dice between them and a tower of gold-rimmed dice sending up pink rays"></td>
+    <td><img src="media/staged/no-hud/ruins-night-frieze.png" alt="Night in the ruins: two dwarves beside a broken wall with yellow and blue ore set in it, shrines of ghost dice glowing white either side under the stars"></td>
+  </tr>
+  <tr>
+    <td>The ruins at dusk: broken halls, ore in what still stands, moss on all of it.</td>
+    <td>The ruins by night.</td>
+  </tr>
+  <tr>
+    <td><img src="media/staged/no-hud/islands-day-under.png" alt="Three dwarves on the grass round a tall stack of dice, slabs of mossy stone hanging in the air behind them with red and yellow ore on their undersides and ladders down to the ground"></td>
+    <td><img src="media/staged/no-hud/islands-dawn-shrine.png" alt="Dawn among the islands: three dwarves on the grass by a row of ghost dice, a mossy slab of stone hanging in the air behind them with yellow ore under it and dice stacked on top, under a rose sky"></td>
+  </tr>
+  <tr>
+    <td>The islands: rocks hanging over an open field, a ladder down from each.</td>
+    <td>At dawn: dice up on one already, ghost dice waiting under it.</td>
   </tr>
   <tr>
     <td><img src="media/showcase/grove-dusk.png" alt="A grove at dusk under a coral sky, dwarves crossing the grass between the trunks"></td>
@@ -223,6 +255,14 @@ One world in twenty is at night: a black sky with that world's own stars, shrine
   <tr>
     <td>The city from its rooftops.</td>
     <td>The grove.</td>
+  </tr>
+  <tr>
+    <td><img src="media/staged/no-hud/castle-night-turrets.png" alt="Night at the castle: three dwarves on the grass before its wall, a turret capped in blue ore above them and rows of ghost dice glowing white beside them"></td>
+    <td><img src="media/staged/no-hud/islands-night-field.png" alt="Night under the islands: three dwarves with lit helmet lamps on the grass, a tall shrine sending up white rays beside them and slabs of stone hanging in the dark behind, yellow ore under one"></td>
+  </tr>
+  <tr>
+    <td>The castle.</td>
+    <td>The islands.</td>
   </tr>
 </table>
 
