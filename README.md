@@ -22,19 +22,11 @@ A round is five minutes, and the highest score wins. The whole game plays on fiv
 
 <table>
   <tr>
-    <td width="50%"><img src="media/staged/grove-day-gathering.png" alt="Four dwarves in orange, teal, pink and white standing on the grass in a grove, a CRAFT door on the left and a stack of glass ghost dice on the right"></td>
-    <td width="50%"><img src="media/showcase/dusk-god-rays.png" alt="Dusk: red rays rising from gold-rimmed dice in a half-filled shrine, a ghost die waiting above them"></td>
+    <td width="50%"><img src="media/svgs/mining-tpv.svg" alt="Dusk at the foot of a pyramid, seen from behind the player: a yellow dwarf swings at a four, cracks spread across its face until it breaks loose into their tray, and they turn to the two beside it"></td>
+    <td width="50%"><img src="media/svgs/whack-tpv.svg" alt="Night in the grove, seen from behind the player: a whack lands on Dusty, a yellow dwarf, who flashes white as a die drops out of their tray onto the grass"></td>
   </tr>
   <tr>
-    <td>A grove by day. The glass blocks on the right are a shrine waiting for dice.</td>
-    <td>Dusk. Rays rise from a shrine someone has started, in that dwarf's colour.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/mining.png" alt="A purple dwarf mid-swing at a six covered in cracks, chips flying off it, a shrine of ghost dice to the right under a coral sky"></td>
-    <td><img src="media/svgs/whack-tpv.svg" alt="Night in the grove, seen from behind the player: a whack lands on Dusty, a yellow dwarf, who flashes white as a die drops out of their tray onto the grass"></td>
-  </tr>
-  <tr>
-    <td>Dig: a six, nearly out.</td>
+    <td>Dig: a four, cracking loose.</td>
     <td>Whack: stars, and dice knocked loose.</td>
   </tr>
 </table>
@@ -70,22 +62,12 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 
 **Everyone hatches.** Each round starts with every dwarf in an egg at their spawn. The clock starts once they are out. Get whacked with an empty tray and you are back in an egg for three seconds.
 
-<p align="center">
-  <img src="media/showcase/eggs.png" alt="Seven coloured eggs lined up on the grass under an ore canopy, some smiling, some cracked" width="640">
-</p>
-
 **Shrines ask, dice answer.** A fixed shrine shows the pips each ghost wants. An open one shows `?` and takes any dice that make its hand. Face a ghost and press `↑` to check it: the hotbar turns into the shrine's hand, its ghosts, and what it would pay.
 
-<table>
-  <tr>
-    <td width="50%"><img src="media/showcase/shrine-check-four-of-a-kind.png" alt="Checking a shrine: the hotbar reads 4KIND times five, four empty ghost slots with level premiums of one to four, and plus 300 as the most it could pay"></td>
-    <td width="50%"><img src="media/showcase/shrine-in-progress.png" alt="A shrine with gold-rimmed dice already placed in it, ghost dice beside them, a CRAFT door on the left and two dwarves nearby"></td>
-  </tr>
-  <tr>
-    <td>Four of a Kind, stacked four high: up to 300.</td>
-    <td>Dice in a shrine wear a gold rim. Whoever places the last one takes the lot.</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="media/showcase/shrine-check-four-of-a-kind.png" alt="Checking a shrine: the hotbar reads 4KIND times five, four empty ghost slots with level premiums of one to four, and plus 300 as the most it could pay" width="640"><br>
+  Four of a Kind, stacked four high: up to 300.
+</p>
 
 **Height pays.** A shrine scores like a word in Scrabble: each die's pips × its level premium, added up, × the hand's multiplier. The premium is ×1 on the ground, ×2 a level up, ×3 two up. A pair of 4s on the ground pays (4 + 4) × 2 = 16. Stack them and it pays (4×1 + 4×2) × 2 = 24. So the best shrines are the ones you have to build up to.
 
@@ -129,12 +111,12 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 
 <table>
   <tr>
-    <td width="33%"><img src="media/showcase/craft-menu.png" alt="A CRAFT sign over a small wooden door at dusk, the craft menu open in the hotbar with Strength selected"></td>
-    <td width="33%"><img src="media/showcase/chest.png" alt="A wooden chest with gold corners and a keyhole, seen up close"></td>
+    <td width="33%"><img src="media/svgs/craft-tpv.svg" alt="The quarry by day, seen from behind the player: a blue dwarf at a row of CRAFT benches opens the craft menu in the hotbar, cycles from Dice to Strength and crafts one into their tray"></td>
+    <td width="33%"><img src="media/svgs/chest-tpv.svg" alt="Night at the vault, seen from behind the player: a blue dwarf opens a wooden chest with gold corners, the hotbar lists the dice inside under STEAL, and they take them"></td>
     <td width="33%"><img src="media/showcase/dwarf-angry.png" alt="A purple-hooded dwarf with a pickaxe in a stone tunnel next to a wall of greenstone; the hotbar names him ANGRY"></td>
   </tr>
   <tr>
-    <td>A craft bench, with Strength picked from its menu.</td>
+    <td>A craft bench: open the menu, cycle to Strength, craft.</td>
     <td>A chest. Some landmarks seal hoards of high dice inside.</td>
     <td>Angry, who is about to whack you.</td>
   </tr>
@@ -201,121 +183,11 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
   <img src="media/svgs/archetypes-ground-3.svg" alt="From the ground: bridges and ruins at dusk, then the castle, labyrinth and vault at night" width="800">
 </p>
 
-<table>
-  <tr>
-    <td width="50%"><img src="media/showcase/city.png" alt="A city of grey stone towers with ore windows and red ore roofs, ghost dice stacked on the rooftops"></td>
-    <td width="50%"><img src="media/showcase/quarry.png" alt="The quarry by day: a plateau of ore slabs under a flat blue sky, a two-high stack of ghost dice on top and a dwarf beside a row of them"></td>
-  </tr>
-  <tr>
-    <td>The city: towers, streets, and shrines on the roofs.</td>
-    <td>The quarry: a plateau cut with pits, shrines up top.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/grove-day-canopy.png" alt="Looking across the tops of the grove's ore canopies by day, three dwarves standing up on them and ghost dice in the foreground"></td>
-    <td><img src="media/staged/no-hud/pyramids-day-shrine.png" alt="Two dwarves either side of a tall stack of ghost dice, a loose die on the grass between them and pink rays over a shrine in the distance"></td>
-  </tr>
-  <tr>
-    <td>The grove from up in its canopy.</td>
-    <td>Among the pyramids: a stacked shrine and a loose die.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/pillars-dawn-tower.png" alt="Dawn: a tall tower of gold-rimmed dice in the middle, a dwarf on either side of it and a CRAFT door at each edge of the frame, under a rose sky"></td>
-    <td><img src="media/staged/no-hud/ziggurat-dawn-steps.png" alt="Dawn on the ziggurat: stepped tiers of ore, stone and dice, one dwarf at its foot and two more higher up its steps"></td>
-  </tr>
-  <tr>
-    <td>Dawn among the pillars: a tall shrine, mostly filled, between two craft benches.</td>
-    <td>The ziggurat at dawn, dwarves up its steps.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/bridges-dusk-towers.png" alt="Dusk: a tower of ghost dice on a gold-rimmed six, three dwarves around it, stone towers and an arch behind and the sun low in a coral sky"></td>
-    <td><img src="media/staged/no-hud/canyons-dusk-modifiers.png" alt="Dusk in the canyons: a dwarf by a CRAFT door under a wall of ore, Sight and Strength blocks on the grass, and a shrine with a gold-rimmed six in it"></td>
-  </tr>
-  <tr>
-    <td>The bridges at dusk, the sun going down behind the towers.</td>
-    <td>The canyons: a craft bench, modifier blocks and a shrine in play.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/colosseum-day-drum.png" alt="The colosseum from outside by day: a tall round wall of mossy stone with a hoop of yellow ore and a rim of red, three dwarves and a shrine of ghost dice on the grass in front of it"></td>
-    <td><img src="media/staged/no-hud/colosseum-dusk-seats.png" alt="Inside the colosseum at dusk: rows of stone seats stepping up to a red rim, ladders up them, dwarves on the rows and a stack of ghost dice down in the pit"></td>
-  </tr>
-  <tr>
-    <td>The colosseum: a round bowl of seats, a gate through it on each side.</td>
-    <td>Inside it at dusk, looking across the pit from the seats.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/castle-dawn-keep.png" alt="Dawn in the castle: a tall keep with a red roof and bands of yellow and green windows, a ladder up its face, seen from the wall walk across the ward under a rose sky"></td>
-    <td><img src="media/staged/no-hud/castle-day-ward.png" alt="The castle by day from inside its walls: dwarves up on the wall walk either side, turrets capped in blue ore and whitestone, red and yellow lintels over the gates and ladders in the corners of the ward"></td>
-  </tr>
-  <tr>
-    <td>The castle at dawn: its keep, from the wall walk.</td>
-    <td>A smaller castle by day: turrets, gates, and dwarves on the walls.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/ruins-dusk-halls.png" alt="Dusk in the ruins: three dwarves on the grass among broken mossy walls with bands of red and blue ore in them, ghost dice between them and a tower of gold-rimmed dice sending up pink rays"></td>
-    <td><img src="media/staged/no-hud/ruins-night-frieze.png" alt="Night in the ruins: two dwarves beside a broken wall with yellow and blue ore set in it, shrines of ghost dice glowing white either side under the stars"></td>
-  </tr>
-  <tr>
-    <td>The ruins at dusk: broken halls, ore in what still stands, moss on all of it.</td>
-    <td>The ruins by night.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/islands-day-under.png" alt="Three dwarves on the grass round a tall stack of dice, slabs of mossy stone hanging in the air behind them with red and yellow ore on their undersides and ladders down to the ground"></td>
-    <td><img src="media/staged/no-hud/islands-dawn-shrine.png" alt="Dawn among the islands: three dwarves on the grass by a row of ghost dice, a mossy slab of stone hanging in the air behind them with yellow ore under it and dice stacked on top, under a rose sky"></td>
-  </tr>
-  <tr>
-    <td>The islands: rocks hanging over an open field, a ladder down from each.</td>
-    <td>At dawn: dice up on one already, ghost dice waiting under it.</td>
-  </tr>
-  <tr>
-    <td><img src="media/showcase/grove-dusk.png" alt="A grove at dusk under a coral sky, dwarves crossing the grass between the trunks"></td>
-    <td><img src="media/showcase/dawn-rooftops.png" alt="Dawn under a rose sky, looking across red and blue ore rooftops at a ghost die sending up white rays"></td>
-  </tr>
-  <tr>
-    <td>About one world in twelve is at dusk.</td>
-    <td>As many are at dawn.</td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="media/svgs/times-of-day.svg" alt="One grove as a small model on a dark background, lit four ways in turn: by day, at dusk, at night with its shrines glowing like lamps, and at dawn" width="640">
 </p>
 
-One world in twenty is at night: a black sky with that world's own stars, shrines glowing like lamps, and a lamp on every dwarf's helmet.
-
-<table>
-  <tr>
-    <td width="50%"><img src="media/staged/no-hud/vault-night-walls.png" alt="Night at the vault: walls banded in blue, yellow, red and green ore, a dwarf standing in the light of a glowing row of ghost dice, two more dwarves nearby"></td>
-    <td width="50%"><img src="media/staged/no-hud/plains-night-field.png" alt="Night on the plains: a wide field dotted with glowing shrines, four dwarves standing among them, gold rays rising in the distance"></td>
-  </tr>
-  <tr>
-    <td>The vault.</td>
-    <td>The plains, every shrine a lamp.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/city-night-street.png" alt="Night in a city street: two dwarves beside a lit, gold-rimmed die with a ghost die on top of it, pink rays rising, dice set into the wall behind"></td>
-    <td><img src="media/staged/no-hud/labyrinth-night-shrine.png" alt="Night in the labyrinth: a dwarf standing in front of gold-rimmed dice under a row of ghost dice, red rays rising over them, another dwarf by the wall"></td>
-  </tr>
-  <tr>
-    <td>A city street.</td>
-    <td>The labyrinth.</td>
-  </tr>
-  <tr>
-    <td><img src="media/showcase/night-city-rooftop.png" alt="Night on the city's rooftops: ghost dice glowing on a lit greenstone roof, more shrines on the towers behind"></td>
-    <td><img src="media/showcase/night-grove.png" alt="Night in the grove: red, yellow and green ore canopies lit from below, a ghost die on top of one and a loose die in the foreground"></td>
-  </tr>
-  <tr>
-    <td>The city from its rooftops.</td>
-    <td>The grove.</td>
-  </tr>
-  <tr>
-    <td><img src="media/staged/no-hud/castle-night-turrets.png" alt="Night at the castle: three dwarves on the grass before its wall, a turret capped in blue ore above them and rows of ghost dice glowing white beside them"></td>
-    <td><img src="media/staged/no-hud/islands-night-field.png" alt="Night under the islands: three dwarves with lit helmet lamps on the grass, a tall shrine sending up white rays beside them and slabs of stone hanging in the dark behind, yellow ore under one"></td>
-  </tr>
-  <tr>
-    <td>The castle.</td>
-    <td>The islands.</td>
-  </tr>
-</table>
+About one world in twelve is at dusk, and as many are at dawn. One world in twenty is at night: a black sky with that world's own stars, shrines glowing like lamps, and a lamp on every dwarf's helmet.
 
 <p align="center">
   <img src="media/svgs/vault-night-jackpot.svg" alt="A shrine being answered at night at the vault: orange rays flooding up from two lit, gold-rimmed dice as they turn to whitestone" width="400">
