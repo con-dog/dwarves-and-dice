@@ -6,7 +6,7 @@
 > This is the public write-up for a private repository. DigDice is in active development and headed for Steam. Rules, numbers and looks here will keep changing until it ships.
 
 <p align="center">
-  <img src="media/svgs/canyons-day-jackpot.svg" alt="The canyons by day, walls of blue, green, red and yellow ore all round: a red dwarf sets the last die into a Sum 14 shrine, red rays pour up as its dice turn to whitestone, and 28 is added to the score" width="800">
+  <img src="media/svgs/jackpot.svg" alt="A pair of fours finished in the grove at dusk: a blue dwarf sets the second die, blue rays pour up, the tally spins to plus 16, the dice turn to whitestone and the score goes from 19 to 35" width="800">
 </p>
 
 ## What it is
@@ -81,16 +81,10 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 | Five of a Kind, Full Straight | ×6 | `1 2 3 4 5 6` |
 | Snake Eyes | ×12 | `1 1` |
 
-<table>
-  <tr>
-    <td width="50%"><img src="media/svgs/shrine-stack-tpv.svg" alt="Dusk: a dwarf up a ladder places the top die on a tower of four gold-rimmed dice, blue rays pour up it, the tower turns to whitestone and the score runs from 102 to 302"></td>
-    <td width="50%"><img src="media/svgs/shrine-straight-tpv.svg" alt="Dawn: the last of six dice goes into a shrine built three levels up a wall, blue rays flood over it, the dice turn to whitestone and the hotbar counts up to plus 174"></td>
-  </tr>
-  <tr>
-    <td>A Small Straight stacked four high: (3×1 + 4×2 + 5×3 + 6×4) × 4 = 200.</td>
-    <td>A Full Straight, one to six, built three levels up: +174.</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="media/svgs/shrine-stack-tpv.svg" alt="Dusk: a dwarf up a ladder places the top die on a tower of four gold-rimmed dice, blue rays pour up it, the tower turns to whitestone and the score runs from 102 to 302" width="640"><br>
+  A Small Straight stacked four high: (3×1 + 4×2 + 5×3 + 6×4) × 4 = 200.
+</p>
 
 **Everything is a block.** Stone, four ores, ladders, chests, the CRAFT bench and the EXIT door can all be mined, carried and put down somewhere else. Carry off a bench and nobody else can craft at it. Ores craft into four modifiers that work while they sit in your tray: **Strength** (dig and whack harder), **Speed**, **Sight** (stand still to X-ray dice and shrines through walls) and **Luck** (roll a loose die). Every slot spent on one is a slot that cannot hold a die.
 
@@ -109,18 +103,10 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="33%"><img src="media/svgs/craft-tpv.svg" alt="The quarry by day, seen from behind the player: a blue dwarf at a row of CRAFT benches opens the craft menu in the hotbar, cycles from Dice to Strength and crafts one into their tray"></td>
-    <td width="33%"><img src="media/svgs/chest-tpv.svg" alt="Night at the vault, seen from behind the player: a blue dwarf opens a wooden chest with gold corners, the hotbar lists the dice inside under STEAL, and they take them"></td>
-    <td width="33%"><img src="media/showcase/dwarf-angry.png" alt="A purple-hooded dwarf with a pickaxe in a stone tunnel next to a wall of greenstone; the hotbar names him ANGRY"></td>
-  </tr>
-  <tr>
-    <td>A craft bench: open the menu, cycle to Strength, craft.</td>
-    <td>A chest. Some landmarks seal hoards of high dice inside.</td>
-    <td>Angry, who is about to whack you.</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="media/showcase/dwarf-angry.png" alt="A purple-hooded dwarf with a pickaxe in a stone tunnel next to a wall of greenstone; the hotbar names him ANGRY" width="400"><br>
+  Angry, who is about to whack you.
+</p>
 
 **Then the board.** When the clock runs out, the scoreboard comes up a row at a time from last place, the winner last.
 
@@ -159,6 +145,9 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
   <img src="media/svgs/archetypes-poster-1.svg" alt="Four map archetypes as small labelled models on a dark background: pillars, islands, quarry and canyons" width="800">
 </p>
 
+<details>
+<summary>The other eleven archetypes, and all fifteen from the ground</summary>
+
 <p align="center">
   <img src="media/svgs/archetypes-poster-2.svg" alt="Four more: city, colosseum, pyramids and plains" width="800">
 </p>
@@ -183,6 +172,8 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
   <img src="media/svgs/archetypes-ground-3.svg" alt="From the ground: bridges and ruins at dusk, then the castle, labyrinth and vault at night" width="800">
 </p>
 
+</details>
+
 <p align="center">
   <img src="media/svgs/times-of-day.svg" alt="One grove as a small model on a dark background, lit four ways in turn: by day, at dusk, at night with its shrines glowing like lamps, and at dawn" width="640">
 </p>
@@ -190,8 +181,7 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
 About one world in twelve is at dusk, and as many are at dawn. One world in twenty is at night: a black sky with that world's own stars, shrines glowing like lamps, and a lamp on every dwarf's helmet.
 
 <p align="center">
-  <img src="media/svgs/vault-night-jackpot.svg" alt="A shrine being answered at night at the vault: orange rays flooding up from two lit, gold-rimmed dice as they turn to whitestone" width="400">
-  <img src="media/svgs/jackpot.svg" alt="A pair of fours finished in the grove at dusk: blue rays pouring up, the tally spinning to plus 16, the dice turning to whitestone and the score going from 19 to 35" width="400">
+  <img src="media/svgs/vault-night-jackpot.svg" alt="A shrine being answered at night at the vault: orange rays flooding up from two lit, gold-rimmed dice as they turn to whitestone" width="640">
 </p>
 
 When a shrine is answered it goes up in a flood of rays and its dice turn to whitestone, which crafts into fresh dice.
