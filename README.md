@@ -65,7 +65,7 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 ## How a round plays
 
 <p align="center">
-  <img src="media/gifs/hatch-fpv.gif.png" alt="Dusk at the foot of a pyramid: red, purple, teal and orange eggs crack open one after another, a dwarf bursts out of each in a spray of shell, and they scatter up the tiers" width="640">
+  <img src="media/svgs/hatch.svg" alt="Dusk at the foot of a pyramid: red, gold, orange, purple and teal eggs crack open one after another, a dwarf bursts out of each in a spray of shell, and they scatter up the tiers" width="640">
 </p>
 
 **Everyone hatches.** Each round starts with every dwarf in an egg at their spawn. The clock starts once they are out. Get whacked with an empty tray and you are back in an egg for three seconds.
@@ -143,7 +143,7 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 **Then the board.** When the clock runs out, the scoreboard comes up a row at a time from last place, the winner last.
 
 <p align="center">
-  <img src="media/gifs/round-over.gif.png" alt="The round-over board in the grove: the clock runs out, then eight dwarves are listed a row at a time from Harpy in eighth up to Cocky first with 222, and COCKY WINS in gold" width="640">
+  <img src="media/svgs/round-over.svg" alt="The round-over board in the grove: the clock runs out, then eight dwarves are listed a row at a time from Harpy in eighth up to Cocky first with 222, and COCKY WINS in gold" width="640">
 </p>
 
 ## The dwarves
@@ -170,11 +170,15 @@ The other seats are played by bots: eight dwarves, A to H, one for every way to 
 Every world is generated from a seed, and nothing about it is stored. A seed picks the format (a duel, four players or eight, on a 16×16×4, 24×24×6 or 32×32×8 grid), one of fifteen map archetypes (a vault, canyons, plains, a labyrinth, a grove, pillars, a ziggurat, a city, a quarry, bridges, pyramids, a colosseum, a castle, ruins, islands), how generous the dice are, the time of day and the sky.
 
 <p align="center">
-  <img src="media/gifs/scale.gif.png" alt="Two generated worlds side by side as small turning models on a dark background: a 2-player world on 16 by 16 and, far larger beside it, an 8-player grove on 32 by 32" width="800">
+  <img src="media/svgs/scale-reveal.svg" alt="Three generated worlds as small models on a dark background: the view starts close on a 2-player world on 16 by 16, then pulls back to show a 4-player world on 24 by 24 and an 8-player grove on 32 by 32 beside it, each larger than the last" width="800">
 </p>
 
 <p align="center">
-  <img src="media/gifs/archetypes-models.gif.png" alt="Twelve of the map archetypes as small labelled models, shown one at a time: pillars, islands, canyons, city, colosseum, pyramids, grove, ziggurat, bridges, ruins, and the labyrinth and vault lit up at night" width="640">
+  <img src="media/svgs/archetypes-poster.svg" alt="All fifteen map archetypes as small labelled models in a grid of five by three: pillars, islands, quarry, canyons and city; colosseum, pyramids, plains, grove and ziggurat; bridges, ruins, and the castle, labyrinth and vault lit up at night" width="800">
+</p>
+
+<p align="center">
+  <img src="media/svgs/archetypes-ground.svg" alt="The same fifteen archetypes seen from the ground, one fading into the next with its name in the corner: pillars, islands and the quarry at dawn; canyons, city, colosseum and pyramids by day; plains, grove, ziggurat, bridges and ruins at dusk; and the castle, labyrinth and vault at night" width="640">
 </p>
 
 <table>
@@ -253,7 +257,7 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
 </table>
 
 <p align="center">
-  <img src="media/gifs/times-of-day.gif.png" alt="One spot in the grove, a dwarf at a shrine sending up gold rays, shown by day, at dusk, at night and at dawn: the sky going from blue to coral to black to rose" width="640">
+  <img src="media/svgs/times-of-day.svg" alt="One grove as a small model on a dark background, lit four ways in turn: by day, at dusk, at night with its shrines glowing like lamps, and at dawn" width="640">
 </p>
 
 One world in twenty is at night: a black sky with that world's own stars, shrines glowing like lamps, and a lamp on every dwarf's helmet.
@@ -294,8 +298,7 @@ One world in twenty is at night: a black sky with that world's own stars, shrine
 </table>
 
 <p align="center">
-  <img src="media/gifs/vault-night-jackpot.gif.png" alt="A shrine being answered at night at the vault: orange rays flooding up from two lit, gold-rimmed dice as they turn to whitestone" width="400">
-  <img src="media/gifs/grove-dusk-jackpot.gif.png" alt="A pair of fours finished in the grove at dusk: gold rays pouring up, the dice turning to whitestone and 16 added to the score" width="400">
+  <img src="media/svgs/jackpot.svg" alt="A pair of fours finished in the grove at dusk: blue rays pouring up, the tally spinning to plus 16, the dice turning to whitestone and the score going from 19 to 35" width="640">
 </p>
 
 When a shrine is answered it goes up in a flood of rays and its dice turn to whitestone, which crafts into fresh dice.
