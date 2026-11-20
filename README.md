@@ -6,7 +6,7 @@
 > This is the public write-up for a private repository. DigDice is in active development and headed for Steam. Rules, numbers and looks here will keep changing until it ships.
 
 <p align="center">
-  <img src="media/gifs/plains-shrine-fpv.gif.png" alt="First person on the plains by day: the last die goes into an All Odd shrine, blue rays pour up as its dice turn to whitestone and 27 is added to the score, then a turn past other dwarves to dig a six loose" width="800">
+  <img src="media/svgs/canyons-day-jackpot.svg" alt="The canyons by day, walls of blue, green, red and yellow ore all round: a red dwarf sets the last die into a Sum 14 shrine, red rays pour up as its dice turn to whitestone, and 28 is added to the score" width="800">
 </p>
 
 ## What it is
@@ -31,7 +31,7 @@ A round is five minutes, and the highest score wins. The whole game plays on fiv
   </tr>
   <tr>
     <td><img src="media/staged/mining.png" alt="A purple dwarf mid-swing at a six covered in cracks, chips flying off it, a shrine of ghost dice to the right under a coral sky"></td>
-    <td><img src="media/gifs/whack-fpv.gif.png" alt="First person, by day: a whack lands on Cocky, an orange dwarf, who flashes white with stars round their head while dice fly out of their tray and bounce across the grass"></td>
+    <td><img src="media/svgs/whack-tpv.svg" alt="Night in the grove, seen from behind the player: a whack lands on Dusty, a yellow dwarf, who flashes white as a die drops out of their tray onto the grass"></td>
   </tr>
   <tr>
     <td>Dig: a six, nearly out.</td>
@@ -101,8 +101,8 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 
 <table>
   <tr>
-    <td width="50%"><img src="media/gifs/shrine-stack-tpv.gif.png" alt="Dusk: a dwarf up a ladder places the top die on a tower of four gold-rimmed dice, blue rays pour up it, the tower turns to whitestone and the score runs from 102 to 302"></td>
-    <td width="50%"><img src="media/gifs/shrine-straight-tpv.gif.png" alt="Dawn: the last of six dice goes into a shrine built three levels up a wall, blue rays flood over it, the dice turn to whitestone and the hotbar counts up to plus 174"></td>
+    <td width="50%"><img src="media/svgs/shrine-stack-tpv.svg" alt="Dusk: a dwarf up a ladder places the top die on a tower of four gold-rimmed dice, blue rays pour up it, the tower turns to whitestone and the score runs from 102 to 302"></td>
+    <td width="50%"><img src="media/svgs/shrine-straight-tpv.svg" alt="Dawn: the last of six dice goes into a shrine built three levels up a wall, blue rays flood over it, the dice turn to whitestone and the hotbar counts up to plus 174"></td>
   </tr>
   <tr>
     <td>A Small Straight stacked four high: (3×1 + 4×2 + 5×3 + 6×4) × 4 = 200.</td>
@@ -118,8 +118,8 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 
 <table>
   <tr>
-    <td width="50%"><img src="media/gifs/sight-fpv.gif.png" alt="Sight at work in a city at dusk: the player stands still, the street fades to black and the dice and shrine ghosts all around show as yellow and white wireframe cubes, then the world comes back"></td>
-    <td width="50%"><img src="media/gifs/roll-fpv.gif.png" alt="Luck at work: up close to a loose die with a ROLL prompt in the hotbar, its face changing with each roll, ending on a one and two sixes placed in a row"></td>
+    <td width="50%"><img src="media/staged/sight-xray.png" alt="Sight at work: the world faded almost to black, and the dice and shrine ghosts all around showing through it as yellow and white wireframe cubes, three Sight modifiers lit in the tray"></td>
+    <td width="50%"><img src="media/svgs/roll-tpv.svg" alt="Luck at work at dusk, seen from behind the player: a blue dwarf faces a loose die with a ROLL prompt in the hotbar, its face changing with each roll, one, four, two, and stopping on a six"></td>
   </tr>
   <tr>
     <td>Sight: stand still, and nearby dice and shrines show through the walls.</td>
@@ -173,13 +173,24 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
   <img src="media/svgs/scale-reveal.svg" alt="Three generated worlds as small models on a dark background: the view starts close on a 2-player world on 16 by 16, then pulls back to show a 4-player world on 24 by 24 and an 8-player grove on 32 by 32 beside it, each larger than the last" width="800">
 </p>
 
-<p align="center">
-  <img src="media/svgs/archetypes-poster.svg" alt="All fifteen map archetypes as small labelled models in a grid of five by three: pillars, islands, quarry, canyons and city; colosseum, pyramids, plains, grove and ziggurat; bridges, ruins, and the castle, labyrinth and vault lit up at night" width="800">
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="media/svgs/archetypes-poster-1.svg" alt="Four map archetypes as small labelled models on a dark background: pillars, islands, quarry and canyons"></td>
+    <td width="50%"><img src="media/svgs/archetypes-poster-2.svg" alt="Four more: city, colosseum, pyramids and plains"></td>
+  </tr>
+  <tr>
+    <td><img src="media/svgs/archetypes-poster-3.svg" alt="Four more at dusk: grove, ziggurat, bridges and ruins"></td>
+    <td><img src="media/svgs/archetypes-poster-4.svg" alt="The last three, lit up at night: castle, labyrinth and vault"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="media/svgs/archetypes-ground.svg" alt="The same fifteen archetypes seen from the ground, one fading into the next with its name in the corner: pillars, islands and the quarry at dawn; canyons, city, colosseum and pyramids by day; plains, grove, ziggurat, bridges and ruins at dusk; and the castle, labyrinth and vault at night" width="640">
-</p>
+<table>
+  <tr>
+    <td width="33%"><img src="media/svgs/archetypes-ground-1.svg" alt="The same archetypes seen from the ground, one fading into the next with its name in the corner: pillars, islands and the quarry at dawn, then canyons and the city by day"></td>
+    <td width="33%"><img src="media/svgs/archetypes-ground-2.svg" alt="From the ground: the colosseum and pyramids by day, then plains, grove and ziggurat at dusk"></td>
+    <td width="33%"><img src="media/svgs/archetypes-ground-3.svg" alt="From the ground: bridges and ruins at dusk, then the castle, labyrinth and vault at night"></td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -298,7 +309,8 @@ One world in twenty is at night: a black sky with that world's own stars, shrine
 </table>
 
 <p align="center">
-  <img src="media/svgs/jackpot.svg" alt="A pair of fours finished in the grove at dusk: blue rays pouring up, the tally spinning to plus 16, the dice turning to whitestone and the score going from 19 to 35" width="640">
+  <img src="media/svgs/vault-night-jackpot.svg" alt="A shrine being answered at night at the vault: orange rays flooding up from two lit, gold-rimmed dice as they turn to whitestone" width="400">
+  <img src="media/svgs/jackpot.svg" alt="A pair of fours finished in the grove at dusk: blue rays pouring up, the tally spinning to plus 16, the dice turning to whitestone and the score going from 19 to 35" width="400">
 </p>
 
 When a shrine is answered it goes up in a flood of rays and its dice turn to whitestone, which crafts into fresh dice.
