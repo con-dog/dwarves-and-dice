@@ -6,7 +6,7 @@
 > This is the public write-up for a private repository. DigDice is in active development and headed for Steam. Rules, numbers and looks here will keep changing until it ships.
 
 <p align="center">
-  <img src="media/showcase/hero-mine-and-score.webp" alt="Ten seconds of a round: walking between mossy stone pillars, checking a shrine of ghost dice, cracking a die out of a wall and placing it" width="800">
+  <img src="media/gifs/plains-shrine-fpv.gif.png" alt="First person on the plains by day: the last die goes into an All Odd shrine, blue rays pour up as its dice turn to whitestone and 27 is added to the score, then a turn past other dwarves to dig a six loose" width="800">
 </p>
 
 ## What it is
@@ -31,11 +31,11 @@ A round is five minutes, and the highest score wins. The whole game plays on fiv
   </tr>
   <tr>
     <td><img src="media/staged/mining.png" alt="A purple dwarf mid-swing at a six covered in cracks, chips flying off it, a shrine of ghost dice to the right under a coral sky"></td>
-    <td><img src="media/staged/whack.png" alt="A blue dwarf whacking another in the grove: the one hit flashes white with stars round their head, and a die flies out of their tray"></td>
+    <td><img src="media/gifs/whack-fpv.gif.png" alt="First person, by day: a whack lands on Cocky, an orange dwarf, who flashes white with stars round their head while dice fly out of their tray and bounce across the grass"></td>
   </tr>
   <tr>
     <td>Dig: a six, nearly out.</td>
-    <td>Whack: stars, and a die knocked loose.</td>
+    <td>Whack: stars, and dice knocked loose.</td>
   </tr>
 </table>
 
@@ -65,7 +65,7 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 ## How a round plays
 
 <p align="center">
-  <img src="media/showcase/hatch-check-roll.webp" alt="A dwarf hatching out of an egg, checking a sum-of-twelve shrine, then cracking a six out of a wall" width="480">
+  <img src="media/gifs/hatch-fpv.gif.png" alt="Dusk at the foot of a pyramid: red, purple, teal and orange eggs crack open one after another, a dwarf bursts out of each in a spray of shell, and they scatter up the tiers" width="640">
 </p>
 
 **Everyone hatches.** Each round starts with every dwarf in an egg at their spawn. The clock starts once they are out. Get whacked with an empty tray and you are back in an egg for three seconds.
@@ -99,16 +99,31 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 | Five of a Kind, Full Straight | ×6 | `1 2 3 4 5 6` |
 | Snake Eyes | ×12 | `1 1` |
 
+<table>
+  <tr>
+    <td width="50%"><img src="media/gifs/shrine-stack-tpv.gif.png" alt="Dusk: a dwarf up a ladder places the top die on a tower of four gold-rimmed dice, blue rays pour up it, the tower turns to whitestone and the score runs from 102 to 302"></td>
+    <td width="50%"><img src="media/gifs/shrine-straight-tpv.gif.png" alt="Dawn: the last of six dice goes into a shrine built three levels up a wall, blue rays flood over it, the dice turn to whitestone and the hotbar counts up to plus 174"></td>
+  </tr>
+  <tr>
+    <td>A Small Straight stacked four high: (3×1 + 4×2 + 5×3 + 6×4) × 4 = 200.</td>
+    <td>A Full Straight, one to six, built three levels up: +174.</td>
+  </tr>
+</table>
+
 **Everything is a block.** Stone, four ores, ladders, chests, the CRAFT bench and the EXIT door can all be mined, carried and put down somewhere else. Carry off a bench and nobody else can craft at it. Ores craft into four modifiers that work while they sit in your tray: **Strength** (dig and whack harder), **Speed**, **Sight** (stand still to X-ray dice and shrines through walls) and **Luck** (roll a loose die). Every slot spent on one is a slot that cannot hold a die.
+
+<p align="center">
+  <img src="media/staged/modifier-podiums.png" alt="Four dwarves at dusk, each standing on a modifier block: a red pickaxe for Strength, a yellow lightning bolt for Speed, a blue eye for Sight and a green shamrock for Luck" width="640">
+</p>
 
 <table>
   <tr>
-    <td width="50%"><img src="media/staged/modifier-podiums.png" alt="Four dwarves at dusk, each standing on a modifier block: a red pickaxe for Strength, a yellow lightning bolt for Speed, a blue eye for Sight and a green shamrock for Luck"></td>
-    <td width="50%"><img src="media/staged/sight-xray.png" alt="The X-ray view at night: the world faded to black, dice and shrine ghosts drawn as yellow and white wireframe cubes, three Sight tiles glowing in the hotbar"></td>
+    <td width="50%"><img src="media/gifs/sight-fpv.gif.png" alt="Sight at work in a city at dusk: the player stands still, the street fades to black and the dice and shrine ghosts all around show as yellow and white wireframe cubes, then the world comes back"></td>
+    <td width="50%"><img src="media/gifs/roll-fpv.gif.png" alt="Luck at work: up close to a loose die with a ROLL prompt in the hotbar, its face changing with each roll, ending on a one and two sixes placed in a row"></td>
   </tr>
   <tr>
-    <td>Strength, Speed, Sight and Luck, a dwarf on each.</td>
-    <td>Sight at work: stand still, and nearby dice and shrines show through the walls.</td>
+    <td>Sight: stand still, and nearby dice and shrines show through the walls.</td>
+    <td>Luck: face a loose die and roll it until it shows what you need.</td>
   </tr>
 </table>
 
@@ -128,7 +143,7 @@ Dice brought a second problem. In a dice game the fun is watching a hand score, 
 **Then the board.** When the clock runs out, the scoreboard comes up a row at a time from last place, the winner last.
 
 <p align="center">
-  <img src="media/showcase/round-over.png" alt="The round-over board in the quarry: eight dwarves ranked by score, Egg first with 162, and EGG WINS in gold" width="640">
+  <img src="media/gifs/round-over.gif.png" alt="The round-over board in the grove: the clock runs out, then eight dwarves are listed a row at a time from Harpy in eighth up to Cocky first with 222, and COCKY WINS in gold" width="640">
 </p>
 
 ## The dwarves
@@ -153,6 +168,14 @@ The other seats are played by bots: eight dwarves, A to H, one for every way to 
 ## Worlds
 
 Every world is generated from a seed, and nothing about it is stored. A seed picks the format (a duel, four players or eight, on a 16×16×4, 24×24×6 or 32×32×8 grid), one of fifteen map archetypes (a vault, canyons, plains, a labyrinth, a grove, pillars, a ziggurat, a city, a quarry, bridges, pyramids, a colosseum, a castle, ruins, islands), how generous the dice are, the time of day and the sky.
+
+<p align="center">
+  <img src="media/gifs/scale.gif.png" alt="Two generated worlds side by side as small turning models on a dark background: a 2-player world on 16 by 16 and, far larger beside it, an 8-player grove on 32 by 32" width="800">
+</p>
+
+<p align="center">
+  <img src="media/gifs/archetypes-models.gif.png" alt="Twelve of the map archetypes as small labelled models, shown one at a time: pillars, islands, canyons, city, colosseum, pyramids, grove, ziggurat, bridges, ruins, and the labyrinth and vault lit up at night" width="640">
+</p>
 
 <table>
   <tr>
@@ -229,6 +252,10 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
   </tr>
 </table>
 
+<p align="center">
+  <img src="media/gifs/times-of-day.gif.png" alt="One spot in the grove, a dwarf at a shrine sending up gold rays, shown by day, at dusk, at night and at dawn: the sky going from blue to coral to black to rose" width="640">
+</p>
+
 One world in twenty is at night: a black sky with that world's own stars, shrines glowing like lamps, and a lamp on every dwarf's helmet.
 
 <table>
@@ -267,8 +294,8 @@ One world in twenty is at night: a black sky with that world's own stars, shrine
 </table>
 
 <p align="center">
-  <img src="media/showcase/night-shrine-answered.gif" alt="A shrine being answered at night: a flood of gold rays, and its dice turning to whitestone" width="400">
-  <img src="media/showcase/grove-climb.webp" alt="Walking through a grove, climbing a vine-covered ladder and looking out over the ore canopies" width="400">
+  <img src="media/gifs/vault-night-jackpot.gif.png" alt="A shrine being answered at night at the vault: orange rays flooding up from two lit, gold-rimmed dice as they turn to whitestone" width="400">
+  <img src="media/gifs/grove-dusk-jackpot.gif.png" alt="A pair of fours finished in the grove at dusk: gold rays pouring up, the dice turning to whitestone and 16 added to the score" width="400">
 </p>
 
 When a shrine is answered it goes up in a flood of rays and its dice turn to whitestone, which crafts into fresh dice.
