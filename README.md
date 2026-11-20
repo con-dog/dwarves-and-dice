@@ -173,24 +173,33 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
   <img src="media/svgs/scale-reveal.svg" alt="Three generated worlds as small models on a dark background: the view starts close on a 2-player world on 16 by 16, then pulls back to show a 4-player world on 24 by 24 and an 8-player grove on 32 by 32 beside it, each larger than the last" width="800">
 </p>
 
-<table>
-  <tr>
-    <td width="50%"><img src="media/svgs/archetypes-poster-1.svg" alt="Four map archetypes as small labelled models on a dark background: pillars, islands, quarry and canyons"></td>
-    <td width="50%"><img src="media/svgs/archetypes-poster-2.svg" alt="Four more: city, colosseum, pyramids and plains"></td>
-  </tr>
-  <tr>
-    <td><img src="media/svgs/archetypes-poster-3.svg" alt="Four more at dusk: grove, ziggurat, bridges and ruins"></td>
-    <td><img src="media/svgs/archetypes-poster-4.svg" alt="The last three, lit up at night: castle, labyrinth and vault"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="media/svgs/archetypes-poster-1.svg" alt="Four map archetypes as small labelled models on a dark background: pillars, islands, quarry and canyons" width="800">
+</p>
 
-<table>
-  <tr>
-    <td width="33%"><img src="media/svgs/archetypes-ground-1.svg" alt="The same archetypes seen from the ground, one fading into the next with its name in the corner: pillars, islands and the quarry at dawn, then canyons and the city by day"></td>
-    <td width="33%"><img src="media/svgs/archetypes-ground-2.svg" alt="From the ground: the colosseum and pyramids by day, then plains, grove and ziggurat at dusk"></td>
-    <td width="33%"><img src="media/svgs/archetypes-ground-3.svg" alt="From the ground: bridges and ruins at dusk, then the castle, labyrinth and vault at night"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="media/svgs/archetypes-poster-2.svg" alt="Four more: city, colosseum, pyramids and plains" width="800">
+</p>
+
+<p align="center">
+  <img src="media/svgs/archetypes-poster-3.svg" alt="Four more at dusk: grove, ziggurat, bridges and ruins" width="800">
+</p>
+
+<p align="center">
+  <img src="media/svgs/archetypes-poster-4.svg" alt="The last three, lit up at night: castle, labyrinth and vault" width="800">
+</p>
+
+<p align="center">
+  <img src="media/svgs/archetypes-ground-1.svg" alt="The same archetypes seen from the ground, one fading into the next with its name in the corner: pillars, islands and the quarry at dawn, then canyons and the city by day" width="800">
+</p>
+
+<p align="center">
+  <img src="media/svgs/archetypes-ground-2.svg" alt="From the ground: the colosseum and pyramids by day, then plains, grove and ziggurat at dusk" width="800">
+</p>
+
+<p align="center">
+  <img src="media/svgs/archetypes-ground-3.svg" alt="From the ground: bridges and ruins at dusk, then the castle, labyrinth and vault at night" width="800">
+</p>
 
 <table>
   <tr>
