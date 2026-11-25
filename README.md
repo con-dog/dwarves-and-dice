@@ -138,15 +138,25 @@ The other seats are played by bots: eight dwarves, A to H, one for every way to 
 Every world is generated from a seed, and nothing about it is stored. A seed picks the format (a duel, four players or eight, on a 16×16×4, 24×24×6 or 32×32×8 grid), one of fifteen map archetypes (a vault, canyons, plains, a labyrinth, a grove, pillars, a ziggurat, a city, a quarry, bridges, pyramids, a colosseum, a castle, ruins, islands), how generous the dice are, the time of day and the sky.
 
 <p align="center">
-  <img src="media/svgs/scale-reveal.svg" alt="Three generated worlds as small models on a dark background: the view starts close on a 2-player world on 16 by 16, then pulls back to show a 4-player world on 24 by 24 and an 8-player grove on 32 by 32 beside it, each larger than the last" width="800">
+  <img src="media/svgs/scale-reveal.svg" alt="Three generated worlds seen from above on a dark background, dwarves at work in all three: the view starts close on a 2-player world on 16 by 16, then pulls back to show a 4-player world on 24 by 24 and an 8-player grove on 32 by 32 beside it, each larger than the last" width="800">
 </p>
+
+<p align="center">
+  <img src="media/svgs/grove-tour-day.svg" alt="An eight-player grove seen from above with its dwarves at work, the view going in on a shrine with a die in it and its rays up, across to two dwarves duelling in a glade, up to a chase round a treetop, and back out to the whole world" width="800">
+</p>
+
+<p align="center">
+  <img src="media/svgs/archetypes-reel-1.svg" alt="Five of the map archetypes in turn, each an eight-player world seen from above with its name beside it and its dwarves at work: pillars, islands, quarry, canyons and city" width="32%">
+  <img src="media/svgs/archetypes-reel-2.svg" alt="Five more in turn: colosseum, pyramids, plains, grove and ziggurat" width="32%">
+  <img src="media/svgs/archetypes-reel-3.svg" alt="The last five in turn: bridges, ruins, castle, labyrinth and vault, into the night" width="32%">
+</p>
+
+<details>
+<summary>All fifteen archetypes as models, and from the ground</summary>
 
 <p align="center">
   <img src="media/svgs/archetypes-poster-1.svg" alt="Four map archetypes as small labelled models on a dark background: pillars, islands, quarry and canyons" width="800">
 </p>
-
-<details>
-<summary>The other eleven archetypes, and all fifteen from the ground</summary>
 
 <p align="center">
   <img src="media/svgs/archetypes-poster-2.svg" alt="Four more: city, colosseum, pyramids and plains" width="800">
@@ -175,7 +185,7 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
 </details>
 
 <p align="center">
-  <img src="media/svgs/times-of-day.svg" alt="One grove as a small model on a dark background, lit four ways in turn: by day, at dusk, at night with its shrines glowing like lamps, and at dawn" width="640">
+  <img src="media/svgs/times-of-day.svg" alt="One eight-player grove seen from above, lit four ways in turn with the same dwarves at the same work: by day, at dusk, at night with its shrines glowing like lamps and a lamp on every helmet, and at dawn" width="640">
 </p>
 
 About one world in twelve is at dusk, and as many are at dawn. One world in twenty is at night: a black sky with that world's own stars, shrines glowing like lamps, and a lamp on every dwarf's helmet.
