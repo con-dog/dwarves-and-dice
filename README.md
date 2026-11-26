@@ -145,14 +145,14 @@ Every world is generated from a seed, and nothing about it is stored. A seed pic
   <img src="media/svgs/grove-tour-day.svg" alt="An eight-player grove seen from above with its dwarves at work, the view going in on a shrine with a die in it and its rays up, across to two dwarves duelling in a glade, up to a chase round a treetop, and back out to the whole world" width="800">
 </p>
 
+<details>
+<summary>All fifteen archetypes as models, and from the ground</summary>
+
 <p align="center">
   <img src="media/svgs/archetypes-reel-1.svg" alt="Five of the map archetypes in turn, each an eight-player world seen from above with its name beside it and its dwarves at work: pillars, islands, quarry, canyons and city" width="32%">
   <img src="media/svgs/archetypes-reel-2.svg" alt="Five more in turn: colosseum, pyramids, plains, grove and ziggurat" width="32%">
   <img src="media/svgs/archetypes-reel-3.svg" alt="The last five in turn: bridges, ruins, castle, labyrinth and vault, into the night" width="32%">
 </p>
-
-<details>
-<summary>All fifteen archetypes as models, and from the ground</summary>
 
 <p align="center">
   <img src="media/svgs/archetypes-poster-1.svg" alt="Four map archetypes as small labelled models on a dark background: pillars, islands, quarry and canyons" width="800">
